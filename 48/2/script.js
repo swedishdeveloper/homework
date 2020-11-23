@@ -15,5 +15,5 @@
 while (true) {
     let random = Math.floor(Math.random() * 11)
     console.log(random)
-    if (random === 6) break;
+    if (random === 6) break
 }
