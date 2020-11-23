@@ -3,6 +3,7 @@ Förvandla pseudokoden i `script.js` till riktig kod.
 När du kör scriptet borde följande skrivas ut
 
 ````
+0
 1
 2
 3

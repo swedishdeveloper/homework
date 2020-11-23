@@ -6,7 +6,7 @@
 2. Lägg till **detta** repository som en ny remote, så att du kan dra ner nya läxuppgifter varje vecka. Skriv enligt nedan
 
 ````
-    git remote add upstream https://github.com/tullinge-prog1/homework.git
+git remote add upstream https://github.com/tullinge-prog1/homework.git
 ````
 
 **Om du har några problem med att komma igång - säg till**. 
